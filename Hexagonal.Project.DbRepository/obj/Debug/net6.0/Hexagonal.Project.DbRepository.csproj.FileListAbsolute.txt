@@ -1,0 +1,15 @@
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\bin\Debug\net6.0\Hexagonal.Project.DbRepository.deps.json
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\bin\Debug\net6.0\Hexagonal.Project.DbRepository.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\bin\Debug\net6.0\Hexagonal.Project.DbRepository.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\bin\Debug\net6.0\Hexagonal.Project.Domain.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\bin\Debug\net6.0\Hexagonal.Project.Domain.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.csproj.AssemblyReference.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.AssemblyInfoInputs.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.AssemblyInfo.cs
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.csproj.CoreCompileInputs.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.csproj.CopyComplete
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\refint\Hexagonal.Project.DbRepository.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\Hexagonal.Project.DbRepository.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.DbRepository\obj\Debug\net6.0\ref\Hexagonal.Project.DbRepository.dll

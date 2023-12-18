@@ -1,0 +1,15 @@
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\bin\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.deps.json
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\bin\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\bin\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\bin\Debug\net6.0\Hexagonal.Project.Domain.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\bin\Debug\net6.0\Hexagonal.Project.Domain.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.csproj.AssemblyReference.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.AssemblyInfoInputs.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.AssemblyInfo.cs
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.csproj.CoreCompileInputs.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.csproj.CopyComplete
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\refint\Hexagonal.Project.HttpClientAdapter.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\Hexagonal.Project.HttpClientAdapter.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.HttpClientAdapter\obj\Debug\net6.0\ref\Hexagonal.Project.HttpClientAdapter.dll

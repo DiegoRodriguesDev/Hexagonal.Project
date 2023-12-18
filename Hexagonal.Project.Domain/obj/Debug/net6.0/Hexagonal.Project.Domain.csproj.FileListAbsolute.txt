@@ -1,0 +1,11 @@
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\bin\Debug\net6.0\Hexagonal.Project.Domain.deps.json
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\bin\Debug\net6.0\Hexagonal.Project.Domain.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\bin\Debug\net6.0\Hexagonal.Project.Domain.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\Hexagonal.Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\Hexagonal.Project.Domain.AssemblyInfoInputs.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\Hexagonal.Project.Domain.AssemblyInfo.cs
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\Hexagonal.Project.Domain.csproj.CoreCompileInputs.cache
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\Hexagonal.Project.Domain.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\refint\Hexagonal.Project.Domain.dll
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\Hexagonal.Project.Domain.pdb
+E:\Estudos\Hexagonal.Project\Hexagonal.Project.Domain\obj\Debug\net6.0\ref\Hexagonal.Project.Domain.dll

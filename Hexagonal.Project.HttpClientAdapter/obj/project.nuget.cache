@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cXnB5GQdfUu/IjkriAWxJx8f8L6mBhR/DZ8IcwJrB8i+3EGJO+hfOrVn1eOQxy+6goa7G+qqT9ZaV7zFtLOmEA==",
+  "success": true,
+  "projectFilePath": "E:\\Estudos\\Hexagonal.Project\\Hexagonal.Project.HttpClientAdapter\\Hexagonal.Project.HttpClientAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.http\\8.0.0\\microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\diego.rodrigues\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
